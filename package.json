@@ -1,7 +1,7 @@
 {
   "name": "fast-rename-web",
   "version": "0.1.0",
-  "homepage": "https://aghajanyanartur.github.io/fast-rename-app",
+  "homepage": "https://aghajanyanartur.github.io/fast-rename-web",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
