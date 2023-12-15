@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fast-rename-app/static/css/main.f855e6bc.css",
-    "main.js": "/fast-rename-app/static/js/main.657e70fb.js",
-    "static/js/787.04574c4c.chunk.js": "/fast-rename-app/static/js/787.04574c4c.chunk.js",
-    "index.html": "/fast-rename-app/index.html",
-    "main.f855e6bc.css.map": "/fast-rename-app/static/css/main.f855e6bc.css.map",
-    "main.657e70fb.js.map": "/fast-rename-app/static/js/main.657e70fb.js.map",
-    "787.04574c4c.chunk.js.map": "/fast-rename-app/static/js/787.04574c4c.chunk.js.map"
+    "main.css": "/fast-rename-web/static/css/main.f855e6bc.css",
+    "main.js": "/fast-rename-web/static/js/main.1c7df779.js",
+    "static/js/787.04574c4c.chunk.js": "/fast-rename-web/static/js/787.04574c4c.chunk.js",
+    "index.html": "/fast-rename-web/index.html",
+    "main.f855e6bc.css.map": "/fast-rename-web/static/css/main.f855e6bc.css.map",
+    "main.1c7df779.js.map": "/fast-rename-web/static/js/main.1c7df779.js.map",
+    "787.04574c4c.chunk.js.map": "/fast-rename-web/static/js/787.04574c4c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.657e70fb.js"
+    "static/js/main.1c7df779.js"
   ]
 }
