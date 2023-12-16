@@ -11,7 +11,7 @@ function App() {
   return (
     <BrowserRouter basename="/fast-rename-web">
       <Routes>
-        <Route path="/fast-rename-web/*" element={<AppRouter />} />
+        <Route path="/*" element={<AppRouter />} />
       </Routes>
     </BrowserRouter>
   );
