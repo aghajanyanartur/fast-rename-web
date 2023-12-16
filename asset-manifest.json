@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/fast-rename-web/static/css/main.7f93d9e3.css",
-    "main.js": "/fast-rename-web/static/js/main.a3d52a48.js",
+    "main.js": "/fast-rename-web/static/js/main.38100958.js",
     "static/js/787.04574c4c.chunk.js": "/fast-rename-web/static/js/787.04574c4c.chunk.js",
     "index.html": "/fast-rename-web/index.html",
     "main.7f93d9e3.css.map": "/fast-rename-web/static/css/main.7f93d9e3.css.map",
-    "main.a3d52a48.js.map": "/fast-rename-web/static/js/main.a3d52a48.js.map",
+    "main.38100958.js.map": "/fast-rename-web/static/js/main.38100958.js.map",
     "787.04574c4c.chunk.js.map": "/fast-rename-web/static/js/787.04574c4c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f93d9e3.css",
-    "static/js/main.a3d52a48.js"
+    "static/js/main.38100958.js"
   ]
 }
