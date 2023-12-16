@@ -7,17 +7,17 @@ import Navigation from '../components/Navigation';
 
 const AppRouter = () => {
     return (
-      <div className='App flex flex-col justify-center items-center'>
-        <div>
-          <Navigation />
+        <div className='App flex flex-col justify-center items-center'>
+            <div>
+                <Navigation />
+            </div>
+            <Routes>
+                <Route path='/' element={<HomePage />} />
+                <Route path='/how-it-works' element={<HelpPage />} />
+                <Route path='/author' element={<Author />} />
+            </Routes>
         </div>
-        <Routes>
-          <Route path='/fast-rename-web' element={<HomePage />} />
-          <Route path='/fast-rename-web/how-it-works' element={<HelpPage />} />
-          <Route path='/fast-rename-web/author' element={<Author />} />
-        </Routes>
-      </div>
     )
-  }
-  
-  export default AppRouter;
+}
+
+export default AppRouter;

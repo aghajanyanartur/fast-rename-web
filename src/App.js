@@ -9,11 +9,11 @@ import AppRouter from './router/AppRouter';
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path="/*" element={<AppRouter />} />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
