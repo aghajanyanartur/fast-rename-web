@@ -9,9 +9,9 @@ import AppRouter from './router/AppRouter';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter >
       <Routes>
-        <Route path="/*" element={<AppRouter />} />
+        <Route path="/fast-rename-web/*" element={<AppRouter />} />
       </Routes>
     </BrowserRouter>
   );
