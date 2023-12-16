@@ -12,9 +12,9 @@ const AppRouter = () => {
           <Navigation />
         </div>
         <Routes>
-          <Route path='/' element={<HomePage />} />
-          <Route path='/how-it-works' element={<HelpPage />} />
-          <Route path='/author' element={<Author />} />
+          <Route path='/fast-rename-web' element={<HomePage />} />
+          <Route path='/fast-rename-web/how-it-works' element={<HelpPage />} />
+          <Route path='/fast-rename-web/author' element={<Author />} />
         </Routes>
       </div>
     )
