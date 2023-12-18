@@ -25,7 +25,7 @@ const HomePage = () => {
                     e.target.style.border = 'none'
                 }}
                 variant="contained" target="_blank"
-                href="https://drive.google.com/uc?export=download&id=1HbIKPhM_trP142vupJEg1iTwOaov50wW">
+                href="https://drive.google.com/uc?export=download&id=1ucvI_z83S0voRO84PJl5izLFvpj5lY-k">
                 Download Fast Rename
             </Button>
         </div>
